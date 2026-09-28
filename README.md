@@ -6,11 +6,9 @@ An automated B2B lead intake pipeline built in **n8n** that ingests form submiss
 
 ## 📺 Project Walkthrough & Video Demo
 
-[![Watch Walkthrough Video](https://img.shields.io/badge/Watch_Demo-Loom_Walkthrough-625DF5?style=for-the-badge&logo=loom)](https://www.loom.com)
+[![Watch Walkthrough Video](https://img.shields.io/badge/Watch_Demo-Loom_Walkthrough-625DF5?style=for-the-badge&logo=loom)](https://www.loom.com/share/2e5784a0f69e46d098455aedeaccedd3)
 
 > *Click the badge above to watch a detailed walkthrough of the running n8n pipeline, webhook ingestion, LLM scoring, and routing logic.*
-
----
 
 ## 📐 Technical Workflow Architecture
 
